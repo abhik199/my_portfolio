@@ -6,13 +6,5 @@
     "skills": ["TypeScript", "MongoDB", "Express", "Node"],
     "demo": "https://github.com/abhik199/multi-vendor-Estore",
     "source": "https://github.com/abhik199/multi-vendor-Estore"
-  },
-  {
-    "title": "XYZ",
-    "imageSrc": "projects/1708325575842.jpg",
-    "description": "Welcome to our E-Commerce Project! This project is aimed at providing users with a seamless online shopping experience. Whether you're a buyer looking for your favorite products or a seller wanting to showcase your merchandise, our platform caters to both needs.",
-    "skills": ["TypeScript", "MongoDB", "Express", "Node"],
-    "demo": "https://github.com/abhik199/multi-vendor-Estore",
-    "source": "https://github.com/abhik199/multi-vendor-Estore"
   }
 ]
